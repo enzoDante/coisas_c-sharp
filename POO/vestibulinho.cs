@@ -52,7 +52,7 @@ namespace POO_teste
             }
         }
     }
-    class Program
+    class vestibulinho
     {
         static void Main(string[] args)
         {
